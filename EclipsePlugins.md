@@ -1,0 +1,9 @@
+| name | description | url | update site |
+|:-----|:------------|:----|:------------|
+| codepro analytics | **extremely good** CodePro Analytix is the premier Java software testing tool for Eclipse developers who are concerned about improving software quality and reducing developments costs and schedules. **similar code** and **analyse dependencies** features are very useful for example | http://code.google.com/intl/de-DE/webtoolkit/tools/codepro/doc/index.html | http://dl.google.com/eclipse/inst/codepro/latest/3.6 |
+| eclemma | visualizes code coverage of test cases | http://www.eclemma.org/ | http://update.eclemma.org/ |
+| PMD  | **provides tons of hints**: which classes are to complex, which variable names are bad, where are data flow anomalies, etc. **impressive!**  analyses source, detects violation of conventions (e.g. max. lines of code, max. number of methods, variable names, use of modifiers) and recommends solutions | http://pmd.sourceforge.net/integrations.html | http://pmd.sf.net/eclipse |
+| hammurapi |             | http://www.hammurapi.biz/hammurapi-biz/ef/xmenu/hammurapi-group/products/hammurapi/index.html | jar standalone http://www.hammurapi.biz/products/hammurapi/hammurapi-5.7.0-setup.jar |
+| find bugs |             | http://findbugs.sourceforge.net/ | http://findbugs.cs.umd.edu/eclipse-daily |
+| ucdetector | unused code detector. parses project source code and generates reports about unused methods. | http://www.ucdetector.org/ | http://ucdetector.sourceforge.net/update |
+| subclipse | svn support for eclipse | subclipse.tigris.org | http://subclipse.tigris.org/update_1.6.x |
